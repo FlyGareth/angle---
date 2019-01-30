@@ -5,6 +5,7 @@
 /Get_Corner_Rectangle/Get_Corner_Rectangle/Debug/
 *.ilk
 *.pdb
+*.vcxproj*
 aaa.txt
 bbb.txt
 test.txt

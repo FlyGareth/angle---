@@ -1,0 +1,1 @@
+Get_Corner_Rectangle.exe > ggg.txt

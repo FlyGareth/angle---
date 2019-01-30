@@ -1,0 +1,9 @@
+*.sdf
+*.sln
+*.suo
+/Get_Corner_Rectangle/ipch/
+*.ilk
+*.pdb
+aaa.txt
+bbb.txt
+test.txt
